@@ -1,5 +1,5 @@
 
-# niubo7645
+# Bo Niu
 
 **Graduate Researcher | Artificial Intelligence & Computational Biology**
 
